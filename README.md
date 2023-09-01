@@ -1,2 +1,2 @@
-# SQL
+# SQL/Rockbuster
 Showcasing SQL Queries
