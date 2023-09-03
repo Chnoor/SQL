@@ -1,4 +1,4 @@
-# SQL Queries/Rockbuster: Introduction
+# SQL/Rockbuster: Introduction
 Rockbuster Stealth LLC is a movie rental company that is planning to keep up with obline streaming companies. 
 # Objective
 Preparing Rockbuster Stealth’s BI department for planning and launching the company’s online video rental platform using the current movie licences
